@@ -3,16 +3,15 @@
 x = 100
 y = 50
 
-if x-y != 50:
-	print('不等于')
+if x - y != 50:
+    print('不等于')
 else:
-	print('等于')
-
+    print('等于')
 
 # 循环
 # 连接符是‘+’
 
-arr = ['a','b','c']
+arr = ['a', 'b', 'c']
 
 for i in arr:
-	print('dsfdsfdsfkdasfkds'+'-----------'+i)
+    print('dsfdsfdsfkdasfkds' + '-----------' + i)
