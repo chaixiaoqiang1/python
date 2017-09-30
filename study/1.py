@@ -1,17 +1,6 @@
-# 刚开始写py,感觉还不错
-# 变量 运算 控制
-x = 100
-y = 50
+#!/usr/bin/python3
 
-if x - y != 50:
-    print('不等于')
-else:
-    print('等于')
+import re
 
-# 循环
-# 连接符是‘+’
-
-arr = ['a', 'b', 'c']
-
-for i in arr:
-    print('dsfdsfdsfkdasfkds' + '-----------' + i)
+print(re.search('www', 'www.runoob.com').span())  # 在起始位置匹配
+print(re.search('com', 'www.runoob.com').span())         # 不在起始位置匹配
