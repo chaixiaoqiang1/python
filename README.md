@@ -23,3 +23,5 @@ self相当于php this
 
 
 python类没有继承任何类的情况下最好继承object类（python3已解决这个问题）
+
+https://pypi.python.org/pypi
