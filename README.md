@@ -13,3 +13,5 @@ python学习与交流
 requests urllib2
 
 python安装下载源码包  python setup.py install
+
+self相当于php this
