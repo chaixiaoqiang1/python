@@ -18,3 +18,8 @@ python安装下载的源码包  python setup.py install
 requests、urllib2
 
 self相当于php this
+
+多态(同一类人对同一件事有不同的看法)
+
+
+python类没有继承任何类的情况下最好继承object类（python3已解决这个问题）
