@@ -2,6 +2,7 @@
 
 1、基础篇记录数据库操作,测试过的可以正常使用的包。
 2、爬虫学习(http://python.jobbole.com/77878/)
+gitbook
 
 
 
