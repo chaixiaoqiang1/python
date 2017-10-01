@@ -1,7 +1,9 @@
-import my_module
-# 人生苦短  我用python
-
+import my_module(同一目录下的文件名)
 my_module.func()
+
+# 包下面的模块引入方式  两种方式 一种是包下某个模块  一个是包下所有模块
+from bao import mokuai
+from 模块名(即目录名) import *(即包目录下的文件名,*代表目录下全部文件)
 
 # 这个是来自my_module下的类
 x = my_module.Complex(3.0, -4.5)
@@ -19,9 +21,3 @@ c.speak()
 #
 # my_module.func()
 # print(dir(my_module))
-
-
-# 包下面的模块引入方式  两种方式 一种是包下某个模块  一个是包下所有模块
-# from bao import mokuai
-from bao import *
-mokuai.test1()
