@@ -1,10 +1,11 @@
-from bs4 import BeautifulSoup
+import urllib.request
+import re
 
-# soup = BeautifulSoup(open("index.html"))
-# print(soup)
+with urllib.request.urlopen('http://www.python.org/') as f:
+    rs = f.read()
 
-soup = BeautifulSoup('<b class="boldest">Extremely bold</b>', 'html.parser')
-tag = soup.b
 
-print(tag)
-print(type(tag))
+cp = re.compile(r'<img.*src=.*.png')
+data = cp.search(str(rs))
+print(data.group())
+
