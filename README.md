@@ -4,7 +4,7 @@
 2、爬虫学习(http://python.jobbole.com/77878/)
 gitbook
 3、基础学习网站(https://wiki.python.org/moin/BeginnersGuide/Programmers)
-4、for in循环(js是键，py是值)  exit()退出代码执行  open()打开文件
+4、for in循环(js是键，py是值)  exit()退出代码执行  open()打开文件 pass关键字(空语句,保持代码的完整性)
 
 
 # 【编辑器】
