@@ -1,7 +1,4 @@
-import re
-data = re.search(r'hello','hello world')
-print(data)
-print(data.span())
-print(data.end())
-print(data.string)
-print(data.group())
+f = open('index.html','w')
+# data = f.read()
+f.write('过去的都是美好年华，留下的都是苟延残喘')
+
