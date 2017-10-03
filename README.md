@@ -4,6 +4,7 @@
 2、爬虫学习(http://python.jobbole.com/77878/)
 gitbook
 3、基础学习网站(https://wiki.python.org/moin/BeginnersGuide/Programmers)
+4、for in循环(js是键，py是值)
 
 
 
