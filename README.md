@@ -27,3 +27,5 @@ requests、urllib2
 self相当于php的this,多态(同一类人对同一件事有不同的看法)
 python类没有继承任何类的情况下最好继承object类（python3已解决这个问题）
 
+
+Python | 用Pyinstaller打包发布exe应用
