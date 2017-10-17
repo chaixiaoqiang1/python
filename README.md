@@ -36,3 +36,4 @@ Python | 用Pyinstaller打包发布exe应用
 -i 表示可执行文件的图标
 
 在window主程序搜索框输入idel打开后新建一个程序保存后F5就可以执行
+(非原创即采集)
