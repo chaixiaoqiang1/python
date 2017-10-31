@@ -37,3 +37,7 @@ Python | 用Pyinstaller打包发布exe应用
 
 在window主程序搜索框输入idel打开后新建一个程序保存后F5就可以执行
 (非原创即采集)
+
+如果是作为运行文件，则下面代码可执行
+if __name__ == '__main__':
+    print('hello world')
