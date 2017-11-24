@@ -1,6 +1,6 @@
 包安装方式【pip install 包模块名称】
 python安装下载的源码包【python setup.py install】
-删除包的方式 【pip uninstall 包模块名称】 | 还有一种方式是找到包手动删除
+删除包的方式 【pip uninstall 包模块名称】 | 还有一种方式是找到【Lib/site-packages目录】下手动删除
 
 # 【目录】(包下载：https://pypi.python.org/pypi)
 
